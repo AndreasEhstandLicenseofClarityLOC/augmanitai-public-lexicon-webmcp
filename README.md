@@ -3,6 +3,8 @@
 A read-only lookup of 56 published author-defined terms, with original definitions, attribution, source DOI and licence. This demonstrates retrieval of published terminology; it is not diagnosis, scientific consensus validation or a recommendation for consequential decisions.
 
 ## Use
+Live demo: https://andreasehstandlicenseofclarityloc.github.io/augmanitai-public-lexicon-webmcp/
+
 Keep all files together and open START.html. Enter Nachstille and choose English to retrieve After-Silence. Search is exact after Unicode/case/whitespace normalization; unknown terms return no match. Missing language versions are explicitly marked, never generated.
 
 The form works without WebMCP. In a compatible browser, the page registers lookup_published_augmanitai_term through document.modelContext. Its input is {"query":"Nachstille","language":"en"}; language may also be de. The button “WebMCP wirklich aufrufen” discovers and executes the registered tool, then compares the response to the local lookup. UNAVAILABLE means the necessary native API is absent; FAILED means the check did not succeed. No browser settings are changed.
