@@ -16,3 +16,7 @@ Lookup and the native check do not send network requests or invoke a language mo
 
 ## Reuse
 See LICENSES.md for the distinction between demo code and source records. Preserve each record's attribution, DOI, source and licence when reusing it. The published wording is retained; data is wrapped as JavaScript for this browser demo.
+
+## Task worksheet
+
+[Use the printable German worksheet](https://andreasehstandlicenseofclarityloc.github.io/augmanitai-public-lexicon-webmcp/trainer.html). Preserve your baseline, check one suggested change, then record the actual result and possible confounders. This static page has no input collection or scripts. The constructed example and self-report do not establish learning or effectiveness. The optional Zweitauge quotation retains its source and CC BY 4.0 attribution.

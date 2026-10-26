@@ -7,3 +7,5 @@ public-records.js is separate: its 56 records retain the CC BY4.0 attribution an
 Licence references:
 https://opensource.org/license/mit
 https://creativecommons.org/licenses/by/4.0/
+
+trainer.html presents new worksheet documentation under the same MIT scope above, excluding the explicitly attributed Zweitauge definition, which retains CC BY 4.0. The original definition is unchanged; the surrounding exercise and layout are new.
